@@ -161,7 +161,7 @@ end
 function scandir(directory)
     local i, t, popen = 0, {}, io.popen
   --  local pfile = popen('find  "'..directory..'"   -maxdepth 5 -type f  -name "*.epub" -o -name "*.pdf" -not | sort ') --  on windows
-    local pfile = popen('find "'..directory..'" -maxdepth 10 -type f  -name "*.epub" -o -name "*.pdf" -o -name "*.azw3" -o -name "*.mobi" -o -name "*.DOCX"  | sort ') -- on linux
+    local pfile = popen('find "'..directory..'" -maxdepth 10 -type f  -name "*.epub" -o -name "*.pdf" -o -name "*.azw3" -o -name "*.mobi" -o -name "*.docx"  | sort ') -- on linux
     for filename in pfile:lines() do
         i = i + 1
             t[i] = filename   
