@@ -1,3 +1,5 @@
+
+VALID LICENSE FOR THIS PLUGIN IS AGPL Version 3.0
 This KOreader plugin organizes ALL your eBooks of type epub, pdf, awz3, mobi, docx into a single collection!
 Many people asked for such solution on Reddit and other
 
