@@ -24,6 +24,9 @@ end
 
 -- Get the base ebooks folder on the ereader to start the search for ebooks
 local ebooks_directory_path = G_reader_settings:readSetting("home_dir")
+if ebooks_directory_path == nil then
+    ebooks_directory_path = '.'
+end
 
 -- Get the Koreader base folder on the ereader where the settings are stored
 local koreader_settings_directory_path = DataStorage:getFullDataDir()
