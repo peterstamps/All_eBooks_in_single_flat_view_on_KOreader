@@ -1,9 +1,13 @@
-# The new 2025.04 version if KOReader comes now with a much better solution,
-making my plugin obsolete.
+# 📦 DEPRECATED: Flat View Plugin for KOReader
 
+> ⚠️ **Deprecated:** As of **KOReader 2025.04**, this feature is now natively supported with a much better solution.  
+> This plugin is only compatible with **KOReader 2024.11 and older**.
 
-# All eBooks in Single Flat View on KOReader
-## The plugin below only works with KOReader 2024.11 and older
+---
+
+## 📚 All eBooks in Single Flat View on KOReader
+
+A KOReader plugin to display **all your eBooks in a single flat list**, regardless of folder structure.
 **Plugin to get a single flat view of all your eBooks in KOReader — folder structure independent**
 
 > **License:** AGPL v3.0  
