@@ -1,3 +1,10 @@
+IMPORTANT commnt added at 2025-04-11
+From KOReader version 2025.04 this function is standard build in and much better and richer functionality.
+I strongly recommend to upgrade and delete thus plugin as you do not need it anymore!
+Regards.
+
+
+
 Last updated: 2015-02-29 time 14:52 CET
 
 
